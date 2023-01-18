@@ -1,0 +1,14 @@
+{
+  "name": "md5-npm",
+  "version": "1.0.0",
+  "description": "md5 hash",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksim Khitrov",
+  "license": "ISC",
+  "dependencies": {
+    "md5-file": "^5.0.0"
+  }
+}
